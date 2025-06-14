@@ -10,8 +10,10 @@ I like to fix bottlenecks, debug timing, and build what’s missing.
 
 # 💻 Tech Stack:
 
+# 💻 Tech Stack
+
 ### Hardware Design & Verification
-![Verilog](https://img.shields.io/badge/Verilog-136D42?style=for-the-badge&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E407C?style=for-the-badge&logoColor=white) ![Tcl](https://img.shields.io/badge/Tcl-00529B?style=for-the-badge&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-136D42?style=for-the-badge&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E407C?style=for-the-badge&logoColor=white) ![UVM](https://img.shields.io/badge/UVM-8A2BE2?style=for-the-badge&logoColor=white) ![Tcl](https://img.shields.io/badge/Tcl-00529B?style=for-the-badge&logoColor=white) ![Questa](https://img.shields.io/badge/Questa-00599C?style=for-the-badge&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### Performance & Profiling
 ![NVIDIA Nsight](https://img.shields.io/badge/NVIDIA_Nsight-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Intel VTune](https://img.shields.io/badge/Intel_VTune-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![Apple Metal](https://img.shields.io/badge/Apple%20Metal-000000?style=for-the-badge&logoColor=white) ![Roofline Analysis](https://img.shields.io/badge/Roofline%20Analysis-555555?style=for-the-badge&logoColor=white)
@@ -26,8 +28,7 @@ I like to fix bottlenecks, debug timing, and build what’s missing.
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ### Project Management & Collaboration
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+![Agile](https://img.shields.io/badge/Agile-42526E?style=for-the-badge&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-00AEEF?style=for-the-badge&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ### ✍️ Guiding Principle
 
 > "The solution is not more complexity. The solution is to have the discipline to go back to the first principles."
