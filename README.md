@@ -1,6 +1,6 @@
-I design ML-driven hardware and verification tools that ship. I build what’s needed, optimize what exists, and lead by doing.
-
-I’m a hands-on engineer who’s passionate about solving real problems and building tech that actually makes a difference. Whether it's debugging SystemVerilog testbenches, tuning deep learning pipelines, or leading teams to bring an idea to life, I approach every project with curiosity, care, and a bias toward action. I like to fix what’s broken, automate what’s slow, and mentor others along the way.
+I design and implement high-performance digital hardware, from RTL to silicon.
+I'm a hands-on engineer who solves complex problems at the intersection of hardware and AI. Whether I'm closing timing on a RISC-V core, optimizing for power, performance, and area, or profiling ML workloads to shape hardware decisions, I bring curiosity and a bias toward action.
+I like to fix bottlenecks, debug timing, and build what’s missing.
 
 
 ## 🌐 Socials:
