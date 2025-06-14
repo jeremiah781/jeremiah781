@@ -14,7 +14,7 @@ I like to fix bottlenecks, debug timing, and build what’s missing.
 ![Verilog](https://img.shields.io/badge/Verilog-136D42?style=for-the-badge&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E407C?style=for-the-badge&logoColor=white) ![Tcl](https://img.shields.io/badge/Tcl-00529B?style=for-the-badge&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### Performance & Profiling
-![NVIDIA Nsight](https://img.shields.io/badge/NVIDIA_Nsight-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Intel VTune](https://img.shields.io/badge/Intel_VTune-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![Apple Metal](httpshttps://img.shields.io/badge/Apple_Metal-000000?style=for-the-badge&logo=apple&logoColor=white)
+![NVIDIA Nsight](https://img.shields.io/badge/NVIDIA_Nsight-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Intel VTune](https://img.shields.io/badge/Intel_VTune-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![Apple Metal](https://img.shields.io/badge/Apple%20Metal-000000?style=for-the-badge&logoColor=white) ![Roofline Analysis](https://img.shields.io/badge/Roofline%20Analysis-555555?style=for-the-badge&logoColor=white)
 
 ### AI, ML & Data
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Optuna](https://img.shields.io/badge/Optuna-1A2B63?style=for-the-badge&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
@@ -28,8 +28,11 @@ I like to fix bottlenecks, debug timing, and build what’s missing.
 ### Project Management & Collaboration
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+### ✍️ Guiding Principle
+
+> "The solution is not more complexity. The solution is to have the discipline to go back to the first principles."
+>
+> — **Jim Keller**
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jeremiah781&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
