@@ -12,8 +12,6 @@ I like to fix bottlenecks, debug timing, and build what’s missing.
 
 # 💻 Tech Stack:
 
-# 💻 Tech Stack
-
 ### Hardware Design & Verification
 ![Verilog](https://img.shields.io/badge/Verilog-136D42?style=for-the-badge&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E407C?style=for-the-badge&logoColor=white) ![UVM](https://img.shields.io/badge/UVM-8A2BE2?style=for-the-badge&logoColor=white) ![Tcl](https://img.shields.io/badge/Tcl-00529B?style=for-the-badge&logoColor=white) ![Questa](https://img.shields.io/badge/Questa-00599C?style=for-the-badge&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
