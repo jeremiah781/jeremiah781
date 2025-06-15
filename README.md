@@ -5,7 +5,7 @@ I design and implement high-performance digital hardware, from RTL to silicon.
 I'm a hands-on engineer who solves complex problems at the intersection of hardware and AI. Whether I'm closing timing on a RISC-V core, optimizing for power, performance, and area, or profiling ML workloads to shape hardware decisions, I bring curiosity and a bias toward action.
 
 I like to fix bottlenecks, debug timing, and build what’s missing.
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-ddumba/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsd5521@psu.edu)
