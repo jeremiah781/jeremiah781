@@ -38,4 +38,6 @@ I like to fix bottlenecks, debug timing, and build what’s missing.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jeremiah781&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
 
+My professional work (Arm, Deca Defense) and advanced research are in private repositories; this profile highlights my personal and academic projects.
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
