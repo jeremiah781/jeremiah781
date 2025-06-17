@@ -4,13 +4,13 @@ I design and implement high-performance digital hardware, from RTL to silicon.
 
 I'm a hands-on engineer who solves complex problems at the intersection of hardware and AI. Whether I'm closing timing on a RISC-V core, optimizing for power, performance, and area, or profiling ML workloads to shape hardware decisions, I bring curiosity and a bias toward action.
 
-I like to fix bottlenecks, debug timing, and build what’s missing.
+I fix bottlenecks, debug timing, and build what’s missing.
  
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-ddumba/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsd5521@psu.edu)
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ### Hardware Design & Verification
 ![Verilog](https://img.shields.io/badge/Verilog-136D42?style=for-the-badge&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E407C?style=for-the-badge&logoColor=white) ![UVM](https://img.shields.io/badge/UVM-8A2BE2?style=for-the-badge&logoColor=white) ![Tcl](https://img.shields.io/badge/Tcl-00529B?style=for-the-badge&logoColor=white) ![Questa](https://img.shields.io/badge/Questa-00599C?style=for-the-badge&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
@@ -29,15 +29,18 @@ I like to fix bottlenecks, debug timing, and build what’s missing.
 
 ### Project Management & Collaboration
 ![Agile](https://img.shields.io/badge/Agile-42526E?style=for-the-badge&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-00AEEF?style=for-the-badge&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-### ✍️ Guiding Principle
+###  Guiding Principle
 
 > "The solution is not more complexity. The solution is to have the discipline to go back to the first principles."
 >
 > — **Jim Keller**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jeremiah781&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
-
 My professional work (Arm, Deca Defense) and advanced research are in private repositories; this profile highlights my personal and academic projects.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<!-- 📌 Highlights -->
+## 📌 Featured Projects
+- **Stable Diffusion Edge Optimizer for Apple Silicon** – Reduced inference latency by 35% on Apple M1 by profiling bottlenecks, enabling mixed-precision, and overlapping CPU/GPU execution. Designed for efficient edge deployment of generative models.
+
+[![](https://visitcount.itsvg.in/api?id=jeremiah781&icon=0&color=0)](https://visitcount.itsvg.in)
