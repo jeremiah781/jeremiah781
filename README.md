@@ -43,6 +43,6 @@ My professional work (Arm, Deca Defense) and advanced research are in private re
 ## 📌 Featured Projects
 - **Stable Diffusion Edge Optimizer for Apple Silicon** – Reduced inference latency by 35% on Apple M1 by profiling bottlenecks, enabling mixed-precision, and overlapping CPU/GPU execution. Designed for efficient edge deployment of generative models.
 
-- **Pipelined RV32IMC CPU on FPGA** – Designed and deployed a custom 32-bit RISC-V processor on the Altera DE1-SoC. Achieved 100.15 MHz while reducing critical path delay by 32% and logic area by 21% through pipelining, clock gating, and synthesis optimization
+- **Pipelined RV32IMC CPU on FPGA** – Designed and deployed a custom 32-bit RISC-V processor on the Altera DE1-SoC. Achieved 100.15 MHz while reducing critical path delay by 32% and logic area by 21% through pipelining, clock gating, and synthesis optimization.
 
 [![](https://visitcount.itsvg.in/api?id=jeremiah781&icon=0&color=0)](https://visitcount.itsvg.in)
