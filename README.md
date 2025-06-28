@@ -35,7 +35,7 @@ I fix bottlenecks, debug timing, and build what’s missing.
 >
 > — **Jim Keller**
 
-My professional work (Arm, Deca Defense) and advanced research are in private repositories; this profile highlights my personal and academic projects.
+My professional work (Arm, Deca Defense) and research are in private repositories; this profile highlights my personal and academic projects.
 
 ---
 
