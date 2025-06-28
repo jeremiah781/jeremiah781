@@ -1,4 +1,4 @@
-Hi, I'm Jeremiah Ddumba 
+Hi, I'm Jeremiah Ddumba  
 
 I design and implement high-performance digital hardware, from RTL to silicon.
 
