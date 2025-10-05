@@ -2,8 +2,8 @@ Hi, I'm Jeremiah Ddumba
 
 I design and implement high-performance digital hardware, from RTL to silicon.
 
-I'm a hands-on engineer who solves complex problems at the intersection of hardware and AI. Whether I'm closing timing on a RISC-V core, optimizing for power, performance, and area, or profiling ML workloads to shape hardware decisions, I bring curiosity and a bias toward action.
- 
+I'm a hands-on hardware engineer who builds and verifies digital systems. Whether I'm closing timing on a RISC-V core, optimizing for power and area, or coordinating 47-person technical programs, I solve complex problems with curiosity and a bias toward action.
+
 I fix bottlenecks, debug timing, and build what’s missing.  
  
 
