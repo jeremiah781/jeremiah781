@@ -2,9 +2,19 @@ Hi, I'm Jeremiah Ddumba
 
 I design and implement high-performance digital hardware, from RTL to silicon.
 
+Currently seeking **Sprting & Summer 2026 internships in Hardware Engineering & Technical Program Management**.
+
+
+## What I Do
+- **Hardware Verification:** ARM validation, UVM testbenches, formal verification
+- **FPGA Design:** RISC-V cores, custom peripherals, timing closure
+- **RF/SDR Systems:** Satellite receivers, radio telescope arrays
+- **Technical Leadership:** Led 47-student radio telescope program ($29K), transformed IEEE from 4 members → largest org on campus
+
+
 I'm a hands-on hardware engineer who builds and verifies digital systems. Whether I'm closing timing on a RISC-V core, optimizing for power and area, or coordinating 47-person technical programs, I solve complex problems with curiosity and a bias toward action.
 
-I fix bottlenecks, debug timing, and build what’s missing.  
+I fix bottlenecks, debug timing, and build what's missing.
  
 
 ## Socials:
