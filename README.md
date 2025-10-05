@@ -36,6 +36,7 @@ I fix bottlenecks, debug timing, and build what's missing.
 
 ## Verification Tools & Methodologies
 ![UVM](https://img.shields.io/badge/UVM-555555?style=for-the-badge)
+![SystemVerilog Assertions (SVA)](https://img.shields.io/badge/SystemVerilog%20Assertions%20(SVA)-6B7280?style=for-the-badge)
 ![Formal Verification](https://img.shields.io/badge/Formal%20Verification-6B7280?style=for-the-badge)
 ![Static Timing Analysis](https://img.shields.io/badge/Static%20Timing%20Analysis-6B7280?style=for-the-badge)
 ![Clock Domain Crossing](https://img.shields.io/badge/Clock%20Domain%20Crossing-6B7280?style=for-the-badge)
