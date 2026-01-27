@@ -2,7 +2,7 @@ Hi, I'm Jeremiah Ddumba
 
 I design and implement high-performance digital hardware, from RTL to silicon.
 
-Currently seeking **Sprting & Summer 2026 internships in Hardware Engineering & Technical Program Management**.
+Currently seeking ** Summer 2026 internships in Hardware Engineering & Technical Program Management**.
 
 
 ## What I Do
